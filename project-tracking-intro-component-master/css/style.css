@@ -591,6 +591,11 @@ body {
     .lists {
         display: none;
     }
+    
+    .list-hr {
+        width:100%;
+        text-align: center;
+    }
 
     .main-container {
         display: flex;
