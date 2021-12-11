@@ -140,6 +140,7 @@ body {
     box-shadow: 0 0 1px rgba(0, 0, 0, 0);
     position: relative;
     overflow: hidden;
+    color: var(--Grayish-Blue);
 }
 
 .list-btn a::before {
@@ -149,7 +150,6 @@ body {
     left: 51%;
     right: 51%;
     bottom: 0;
-    background: var(--Dark-Grayish-Blue);
     height: .18rem;
     transition-property: left, right;
     transition-duration: .15s;
